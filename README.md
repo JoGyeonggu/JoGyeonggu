@@ -2,7 +2,7 @@
 ### 📫 Contact
 
 <p>👤 Name: Jo Gyeonggu </p> 
-<p>📧 Email: [wh941104@gmail.com](mailto:wh941104@gmail.com)</p>
+<p>📧 Email: wh941104@gmail.com</p>
 
 ---
 
